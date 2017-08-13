@@ -1,4 +1,4 @@
-# Project Itus - Bridging the gap between preventive medicine and genetic warfare. The tools to heal and defend against the conventional threat.
+# Project Itus - Bridging the gap between preventive medicine and genetic warfare. The tools to heal and defend against the unconventional threat.
 
 Field of Invention:
 
